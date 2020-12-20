@@ -11,7 +11,7 @@ Til Bahadur Baniya
 # Screenshot
 <img src="./demo/Hnet-image.gif" height="500">
 
-<img src="./demo/payments.png" height="300">
+<img src="./demo/payments.png" height="200">
 
  There's a longer demo video inside the demo directory above.
 
