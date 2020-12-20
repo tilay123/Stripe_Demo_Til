@@ -9,7 +9,7 @@ Test Cards: https://stripe.com/docs/testing
 Til Bahadur Baniya
 
 # Screenshot
-![GIF Demo](./demo/Hnet-image.gif)
+<img src="./demo/Hnet-image.gif" height="500">
 
  There's a longer demo video inside the demo directory above.
 
