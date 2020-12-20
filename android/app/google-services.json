@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "149856231990",
+    "project_id": "stripedemo-56ae4",
+    "storage_bucket": "stripedemo-56ae4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149856231990:android:c2f725b93734a1654dae97",
+        "android_client_info": {
+          "package_name": "com.til.stripe_demo_til"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149856231990-hpqm6gmap8qu5389dkbnklmhlug7i4sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWkEkJFkgVve5b-6VhEgmCtFlFjMlM4N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149856231990-hpqm6gmap8qu5389dkbnklmhlug7i4sq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149856231990-eir5cm0n0c0h4kvf6dboeu09gk9j0qm4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.til.stripeDemoTil"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
