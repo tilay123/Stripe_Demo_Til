@@ -8,8 +8,8 @@ Test Cards: https://stripe.com/docs/testing
 # Author
 Til Bahadur Baniya
 
-# Screenshot
-<img src="./demo/Hnet-image.gif" height="500">
+# Screenshots
+<img src="./demo/Hnet-image.gif" width="300">
 
 <img src="./demo/payments.png" height="200">
 
